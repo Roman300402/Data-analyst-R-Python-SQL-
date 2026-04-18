@@ -14,11 +14,11 @@ Bienvenido a mi repositorio central de proyectos. Aquí encontrarás una colecci
 
 ## 📂 Índice de Proyectos
 
-| Proyecto | Tecnologías | Descripción | Enlace |
-| :--- | :---: | :--- | :---: |
-| **Análisis de Fertilidad y Educación** | `R` `LaTeX` | Modelos de regresión de Poisson utilizando la base ENIGH 2024. | [Ver Proyecto](./Fertilidad_ENIGH) |
-| **Proyecto pigmentocracia educativa** | `Python` | Limpieza de datos y análisis estadistico. | [Ver Proyecto](./Movilidad) |
-| **Analisis descriptivo** | `Python` | Introduccion a la limpieza de datos. | [Ver Proyecto](./Proyecto(1)) |
+| Proyecto | Tecnologías | Descripción |
+| :--- | :---: | :--- | 
+| **Análisis de Fertilidad y Educación** | `R` `LaTeX` | Modelos de regresión de Poisson utilizando la base ENIGH 2024. | 
+| **Proyecto pigmentocracia educativa** | `R` | Limpieza de datos y análisis estadistico. | 
+| **Analisis descriptivo** | `Python` | Introduccion a la limpieza de datos. | 
 
 ---
 
