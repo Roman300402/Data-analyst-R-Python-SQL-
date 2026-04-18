@@ -1,33 +1,29 @@
-# [Analisis descriptivo]
-
-## 📊 Descripción del Proyecto
-Este repositorio contiene un análisis integral que combina herramientas de **Python**, **R** y **SQL** para extraer, limpiar y modelar datos provenientes de bases como Censo de Poblacion Y Vivienda, ESRU, ENIGH.
-
-## 🛠️ Stack Tecnológico
-* **SQL:** Extracción de datos y consultas complejas (CTE, Joins, Agregaciones).
-* **Python:** Limpieza y manipulación de datos con `Pandas`, `NumPy` y `Polars`.
-* **R:** Análisis estadístico avanzado y visualización con `ggplot2` y `tidyverse`.
+# 📊 Portafolio de Análisis de Datos y Econometría
 
 
-## 📁 Estructura del Repositorio
-* `/data`: Datasets originales y procesados.
-* `/scripts_sql`: Consultas para la extracción y preparación en base de datos.
-* `/notebooks_py`: Análisis exploratorio (EDA) y modelos en Python.
-* `/analysis_r`: Scripts de análisis estadístico y visualizaciones finales.
-* `/output`: Gráficos generados y reportes en PDF/HTML.
+Bienvenido a mi repositorio central de proyectos. Aquí encontrarás una colección de trabajos enfocados en ciencia de datos, modelado estadístico y análisis económico, utilizando un enfoque técnico y riguroso.
 
-## 🚀 Cómo ejecutar el proyecto
-1.  **SQL:** Carga el script `schema.sql` en tu gestor de base de datos.
-2.  **Python:**
-    ```bash
-    pip install -r requirements.txt
-    python scripts/main_analysis.py
-    ```
-3.  **R:** Abre el archivo `.Rmd` en RStudio y ejecuta "Knit" para generar el reporte.
+---
 
-## 📈 Resultados Clave
-* **Hallazgo 1:** Descripción breve del resultado más importante.
-* **Hallazgo 2:** Alguna correlación o métrica relevante encontrada.
+## 🛠️ Stack Tecnológico General
+* **Lenguajes:** Python (Pandas, Polars, Matplotlib), R (Tidyverse, ggplot2), SQL (PostgreSQL, MySQL).
+* **Especialidades:**  Procesamiento de Grandes Volúmenes de Datos (ENIGH, etc.).
+* **Documentación:** Reportes profesionales en LaTeX y Overleaf.
 
-## ✒️ Autor
-* **[Roman Domínguez Solís]** 
+---
+
+## 📂 Índice de Proyectos
+
+| Proyecto | Tecnologías | Descripción | Enlace |
+| :--- | :---: | :--- | :---: |
+| **Análisis de Fertilidad y Educación** | `R` `LaTeX` | Modelos de regresión de Poisson utilizando la base ENIGH 2024. | [Ver Proyecto](./Fertilidad_ENIGH) |
+| **Proyecto pigmentocracia educativa** | `Python` | Limpieza de datos y análisis estadistico. | [Ver Proyecto](./Movilidad) |
+| **Analisis descriptivo** | `Python` | Introduccion a la limpieza de datos. | [Ver Proyecto](./Proyecto(1)) |
+
+---
+
+## 📈 Certificaciones y Formación
+* **Maestría en Economía** - CIDE (En curso)
+* **Lic. en Física y Matemáticas** - ESFM-IPN
+
+*“Sin datos, eres solo otra persona con una opinión.”*
